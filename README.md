@@ -5,9 +5,9 @@ Este repositorio tiene como propósito permitir la visualización de tareas y tr
 * **Requisitos para el código :**
   + python - versión 3.6
 * **Integrantes:**
-  + Bastian Antillanca, bastian.antillanca@alumnos.uach.cl
-  + Ricardo Pino, ricardo.pino@alumnos.uach.cl
+  + Bastian Antillanca, email: bastian dot antillanca at alumnos dot uach dot cl
+  + Ricardo Pino, email: ricardo dot pino at alumnos dot uach dot cl
 * **Semestre:**
   + Invierno 2022
 * **Docente responsable:** 
-  + Dr. Víctor Poblete Ramírez, vpoblete@uach.cl 
+  + Dr. Víctor Poblete Ramírez, email: vpoblete at uach dot cl 
